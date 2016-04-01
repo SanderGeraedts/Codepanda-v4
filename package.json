@@ -1,0 +1,16 @@
+{
+  "name": "codepanda.nl-v4",
+  "version": "1.0.0",
+  "description": "Versie 4 van Codepanda.nl",
+  "main": "gulpfile.js",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp-imagemin": "^2.4.0",
+    "imagemin-pngquant": "^4.2.2"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Sander Geraedts - Codepanda",
+  "license": "MIT"
+}
